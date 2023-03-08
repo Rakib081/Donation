@@ -1,0 +1,148 @@
+.head{
+    padding-top: 70px;
+    margin: 0 auto;
+    background-image: url(banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    align-items: center;
+    opacity: 0.9999;
+    height: 250px;
+} 
+
+.head p{
+    padding-bottom: 20px;
+}
+
+.head a{
+    border: 1px solid orange;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+}
+.head a:hover{
+    background-color: orangered;
+    border: 1px solid orangered;
+}
+body{
+    margin: 1 auto;
+    background-color: white;
+}
+.taka{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.donate{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+
+
+.teka{
+    
+    margin: 10px 40px;
+    padding-top: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: aquamarine;
+    border: 1px solid black;
+
+}
+.teka:hover{
+    background-color: blueviolet;
+    border: 1px solid orange;
+    color: orangered;
+
+}
+
+.border{
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+    text-align: center;
+
+}
+.dnt-amnt{
+    justify-content: center;
+    display: flex;
+}
+
+.btm{
+    justify-content: center;
+    display: flex;
+}
+.donate-btn{
+    background-color: rgb(45, 212, 185);
+}
+
+.dnt-pln{
+    justify-content: center;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.plan{
+    padding-left: 50px;
+    display: flex;
+}
+
+.fse-pln{
+    border: 30px;
+    padding: 100px;
+}
+
+.cntrbt{
+    display: flex;
+}
+
+.cntnt {
+    padding-left: 50px;
+    width: 50%;
+    justify-content: center;
+    text-align: left;
+    align-items: center;
+    padding: 50px;
+}
+
+.faq{
+    border: 1px solid rgb(67, 151, 199);
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: rgb(67, 151, 199);
+    color: white;
+    text-decoration: none;
+
+}
+
+.update{
+    text-align: center;
+    justify-content: center;
+}
+
+.mail{
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 50px;
+
+}
+
+.sub{
+    margin-left: -5px;
+    background-color: rgb(67, 151, 199);
+}
+
+.footer{
+    height: 200px;
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    justify-content: center;
+    padding-top: 50px;
+}
